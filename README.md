@@ -54,15 +54,15 @@ https://heroku.com/deploy?template=https://github.com/Afx-Abu/Abu_ser
 6. Now change Afx-Abu with your github username and click ENJOY<br>
    <br>
 # Contact for help:
-   * Click [Contact](https://wa.me/7025994178?text=Need+Help🙂) Here For Contact Afx-Abu
+   * Click [Contact](https://wa.me/+201124707113?text=Need+Help🙂) Here For Contact Afx-Abu
 # Contact for help:
-   * Click [Contact](https://wa.me/9567489404?text=Need+Help🙂) Here For Contact Shefin 
+   * Click [Contact](https://wa.me/+201124707113?text=Need+Help🙂) Here For Contact Shefin 
   
 
    BOT ERROR UNDEL ONNU EE NUMBER SCREEN SHOT SEND
 
 
-https://wa.me/919037024889?text=Bot+Error+und+muthe
+https://wa.me/+201124707113?text=Bot+Error+und+muthe
 
 
 
@@ -70,7 +70,7 @@ https://wa.me/919037024889?text=Bot+Error+und+muthe
   ## Developers
   <div align="center">
     
-  [![Afx-Abu](https://github.com/Afx-Abu.png?size=100)](https://github.com/Afx-Abu)
+  [![semo-android](https://github.com/semoandroidwa.png?size=100)](https://github.com/semoandroidwa)
 
-[Afx-Abu](https://github.com/Afx-Abu)        
+[semo-android](https://github.com/semoandroidwa)        
 Developer, Base, Bug Fixes, Modules
